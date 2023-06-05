@@ -11,3 +11,4 @@
 * 3º Depois clique em "Select an element in the page to inspect"  **imagem 2**
 * 4º Após fazer isso clique com o botão "esquerdo" no lugar onde deseja saber o código "xpath" (isso irá marcar uma série de códigos na tela de "Elements")
 * 5º Clique com o botão "esquerdo" no lugar marcado e clique em "copy" e em seguida clique em "Copy full xpath" **imagem 3**
+**As imagens exemplificando estão na pasta "imagens_xpath" e está ordenada de acordo com a classificação descrita**
